@@ -4,4 +4,4 @@
 - Key Features: Automated resume building, dynamic portfolio templates, and Al-powered content generation.
 - Tech Stack: Symfony 7, React, MySQL, TailwindCSS.
 
-### [Watch Demo](https://drive.google.com/file/d/110TIpoM16oHh6Ix_x9edaRJ6hAm_tIhp/view?usp=sharing)
+### [Watch Demo](https://drive.google.com/file/d/15B6qIUvGD5j_GCgUkS7reyNseIIwdDqH/view?usp=sharing)
